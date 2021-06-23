@@ -1,2 +1,2 @@
 # airflow
-Airflow for ETL scheduler and orchestrator
+Airflow (DAG) for ETL scheduler and orchestrator
